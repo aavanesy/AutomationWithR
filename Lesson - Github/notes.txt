@@ -1,0 +1,30 @@
+Step 1: create a github account on
+https://github.com/
+
+Step 2: download and install git
+
+https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+
+For windows
+https://git-scm.com/download/win
+
+Step 3: verify git on pc
+
+# username and email without "" or ''
+git config --global user.name your_username
+git config --global user.email your_email
+
+Step 4: verify git in Rstudio
+
+Step 5: create a new private repo
+
+Step 6: create token
+
+ghp_eshfeohfeohifeoshfeoiihfeo
+
+Step 7: git clone
+
+Add files and commit
+
+git push
+
