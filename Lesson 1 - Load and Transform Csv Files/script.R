@@ -1,4 +1,11 @@
 
+############# IMPORTANT ################
+# Dont forget set current folder as working directory #
+# Pane Files >> More (little Blue Settings Icon) >> Set as Working Directory
+
+# or run
+setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
+
 library(dplyr)
 library(lubridate)
 

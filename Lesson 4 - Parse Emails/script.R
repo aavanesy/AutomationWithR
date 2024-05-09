@@ -1,3 +1,10 @@
+############# IMPORTANT ################
+# Dont forget set current folder as working directory #
+# Pane Files >> More (little Blue Settings Icon) >> Set as Working Directory
+
+# or run
+setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
+
 
 library(mRpostman)
 #https://cran.r-project.org/web/packages/mRpostman/vignettes/basics.html
